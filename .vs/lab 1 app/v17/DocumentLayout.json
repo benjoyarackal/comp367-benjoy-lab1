@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Devops assignments\\lab 1 app\\lab 1 app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2999E45-A42D-4DF9-A305-BC922788FD26}|lab 1 app\\lab 1 app.csproj|d:\\devops assignments\\lab 1 app\\lab 1 app\\lab 1 app\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2999E45-A42D-4DF9-A305-BC922788FD26}|lab 1 app\\lab 1 app.csproj|solutionrelative:lab 1 app\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Devops assignments\\lab 1 app\\lab 1 app\\lab 1 app\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab 1 app\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Devops assignments\\lab 1 app\\lab 1 app\\lab 1 app\\Pages\\Index.cshtml",
+              "RelativeToolTip": "lab 1 app\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T02:50:09.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

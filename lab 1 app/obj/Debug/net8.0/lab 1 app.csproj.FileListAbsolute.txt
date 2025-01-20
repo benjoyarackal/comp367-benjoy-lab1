@@ -1,0 +1,34 @@
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\bin\Debug\net8.0\appsettings.Development.json
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\bin\Debug\net8.0\appsettings.json
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\bin\Debug\net8.0\lab 1 app.staticwebassets.runtime.json
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\bin\Debug\net8.0\lab 1 app.staticwebassets.endpoints.json
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\bin\Debug\net8.0\lab 1 app.exe
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\bin\Debug\net8.0\lab 1 app.deps.json
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\bin\Debug\net8.0\lab 1 app.runtimeconfig.json
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\bin\Debug\net8.0\lab 1 app.dll
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\bin\Debug\net8.0\lab 1 app.pdb
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\obj\Debug\net8.0\lab 1 app.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\obj\Debug\net8.0\lab 1 app.AssemblyInfoInputs.cache
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\obj\Debug\net8.0\lab 1 app.AssemblyInfo.cs
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\obj\Debug\net8.0\lab 1 app.csproj.CoreCompileInputs.cache
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\obj\Debug\net8.0\lab 1 app.MvcApplicationPartsAssemblyInfo.cache
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\obj\Debug\net8.0\lab 1 app.RazorAssemblyInfo.cache
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\obj\Debug\net8.0\lab 1 app.RazorAssemblyInfo.cs
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\obj\Debug\net8.0\scopedcss\bundle\lab 1 app.styles.css
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\obj\Debug\net8.0\scopedcss\projectbundle\lab 1 app.bundle.scp.css
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\obj\Debug\net8.0\staticwebassets.build.json
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\obj\Debug\net8.0\staticwebassets.development.json
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\obj\Debug\net8.0\staticwebassets\msbuild.lab 1 app.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\obj\Debug\net8.0\staticwebassets\msbuild.lab 1 app.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\obj\Debug\net8.0\staticwebassets\msbuild.build.lab 1 app.props
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.lab 1 app.props
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.lab 1 app.props
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\obj\Debug\net8.0\lab 1 app.dll
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\obj\Debug\net8.0\refint\lab 1 app.dll
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\obj\Debug\net8.0\lab 1 app.pdb
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\obj\Debug\net8.0\lab 1 app.genruntimeconfig.cache
+D:\Devops assignments\lab 1 app\lab 1 app\lab 1 app\obj\Debug\net8.0\ref\lab 1 app.dll
